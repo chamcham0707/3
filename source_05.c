@@ -1,4 +1,4 @@
-#define _CRT_SECURE_NO_WARNINGS // test
+#define _CRT_SECURE_NO_WARNINGS // testing
 #pragma warning(disable: 6031)
 
 #include <stdio.h>
